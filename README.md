@@ -102,6 +102,5 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 
-**Your Name**
 
 GitHub: https://github.com/your-username
